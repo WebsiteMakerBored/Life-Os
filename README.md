@@ -38,9 +38,7 @@ life-os/
 
 ## Live Website
 
-Once GitHub Pages is enabled, the website will be available at:
-
-[Add your Life OS website URL here]
+[https://websitemakerbored.github.io/Life-Os/](https://websitemakerbored.github.io/Life-Os/)
 
 ## Deploy with GitHub Pages
 
